@@ -1,4 +1,4 @@
-package com.radix.api.infrastructure.jpa.entity;
+package com.radix.api.infrastructure.persistence.jpa.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
